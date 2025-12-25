@@ -7,8 +7,8 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 $(call inherit-product, device/google/sprout/full_sprout.mk)
 
-PRODUCT_NAME := cm_sprout
-PRODUCT_DEVICE :=sprout
+PRODUCT_NAME := cm_sprout_b
+PRODUCT_DEVICE :=sprout_b
 PRODUCT_BRAND := google
-PRODUCT_MANUFACTURER := Google
-PRODUCT_MODEL := A1
+PRODUCT_MANUFACTURER := Mito
+PRODUCT_MODEL := A10
